@@ -11,7 +11,7 @@ greenlet==0.4.15
 isort==4.3.21
 lazy-object-proxy==1.4.3
 mccabe==0.6.1
-numpy==1.18.2
+numpy==1.22.0
 pandas==1.0.3
 PyInstaller==4.0.dev0+3e6f7dc709
 pylint==2.4.4
